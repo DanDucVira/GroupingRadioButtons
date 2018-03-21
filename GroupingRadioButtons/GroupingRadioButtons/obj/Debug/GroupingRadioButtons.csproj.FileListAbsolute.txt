@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\C#Homework\GroupingRadioButtons\GroupingRadioButtons\bin\Debug\GroupingRadioButtons.exe.config
+C:\Users\User\Desktop\C#Homework\GroupingRadioButtons\GroupingRadioButtons\bin\Debug\GroupingRadioButtons.exe
+C:\Users\User\Desktop\C#Homework\GroupingRadioButtons\GroupingRadioButtons\bin\Debug\GroupingRadioButtons.pdb
+C:\Users\User\Desktop\C#Homework\GroupingRadioButtons\GroupingRadioButtons\obj\Debug\GroupingRadioButtons.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#Homework\GroupingRadioButtons\GroupingRadioButtons\obj\Debug\GroupingRadioButtons.frmRadiogrp.resources
+C:\Users\User\Desktop\C#Homework\GroupingRadioButtons\GroupingRadioButtons\obj\Debug\GroupingRadioButtons.Properties.Resources.resources
+C:\Users\User\Desktop\C#Homework\GroupingRadioButtons\GroupingRadioButtons\obj\Debug\GroupingRadioButtons.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C#Homework\GroupingRadioButtons\GroupingRadioButtons\obj\Debug\GroupingRadioButtons.exe
+C:\Users\User\Desktop\C#Homework\GroupingRadioButtons\GroupingRadioButtons\obj\Debug\GroupingRadioButtons.pdb
